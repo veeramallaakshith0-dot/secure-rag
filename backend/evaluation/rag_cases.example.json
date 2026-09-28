@@ -1,0 +1,12 @@
+{
+  "description": "Replace examples with questions based on files already uploaded to the chosen account. Matching is an exact text heuristic, not a human-quality or factuality guarantee.",
+  "cases": [
+    {
+      "question": "What date does the document state?",
+      "expected_terms": [
+        "replace with a short expected phrase"
+      ],
+      "expected_source": "example.pdf"
+    }
+  ]
+}
